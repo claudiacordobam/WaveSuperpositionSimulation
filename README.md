@@ -115,7 +115,7 @@ Direction arrows indicating propagation
 
 ---
 
-##👩‍💻 Author
+## 👩‍💻 Author
 
 **Claudia Córdoba**
 Multimedia student exploring the intersection of technology, physics, and creativity.
